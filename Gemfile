@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 
 gem 'rails', '4.0.0'
 
@@ -16,8 +16,9 @@ gem 'active_importer'
 #   # bundle exec rake doc:rails generates the API under doc/api.
 #   gem 'sdoc', require: false
 # end
-#
-# gem 'devise', '3.0.0'
+
+# https://github.com/plataformatec/devise
+gem 'devise', '3.0.0'
 # gem 'postmark-rails'
 # gem 'capistrano'
 # gem 'ejs'
