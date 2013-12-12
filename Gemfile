@@ -18,7 +18,8 @@ gem 'active_importer'
 # end
 
 # https://github.com/plataformatec/devise
-gem 'devise', '3.0.0'
+gem 'devise'
+# gem 'devise-encryptable'
 # gem 'postmark-rails'
 # gem 'capistrano'
 # gem 'ejs'

@@ -101,6 +101,6 @@ PLATFORMS
 
 DEPENDENCIES
   active_importer
-  devise (= 3.0.0)
+  devise
   pg
   rails (= 4.0.0)
